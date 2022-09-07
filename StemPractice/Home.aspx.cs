@@ -23,5 +23,10 @@ namespace StemPractice
         {
             Response.Write("Ayesha button created");
         }
+
+        protected void btnAnusha_Click(System.Object sender, System.EventArgs e)
+        {
+            Response.Write("Anusha button created");
+        }
     }
 }
