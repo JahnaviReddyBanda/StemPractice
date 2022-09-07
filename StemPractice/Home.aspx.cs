@@ -18,5 +18,10 @@ namespace StemPractice
         {
             Response.Write("Jahnavi button created");
         }
+
+        protected void Button2_Click(System.Object sender, System.EventArgs e)
+        {
+            Response.Write("Ayesha button created");
+        }
     }
 }
